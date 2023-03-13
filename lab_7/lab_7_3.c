@@ -8,7 +8,7 @@ int main() {
     int sum=0;
     // store 0 to 9 in array
     for(int i=0;i<8;i++){
-        list[i] = i;   
+        scanf(" %d",&list[i]);
     };
     // find sum
     for(int i=0;i<8;i++){
